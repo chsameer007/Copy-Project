@@ -1,0 +1,14 @@
+.pro {
+    width: 300px;
+    background-color: rgb(206, 206, 206);
+    border: 1px solid #000;
+}
+.pro img {
+    width: 100%;
+    
+
+}
+
+input {
+    display: none;
+}
